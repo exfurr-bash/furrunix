@@ -1,5 +1,5 @@
 #!/bin/bash
-
+apt install -y proot
 # Passo 1: Definir o link do rootfs diretamente
 ROOTFS_URL="https://github.com/exfurr-bash/furrunix/releases/download/rootfs/UwU.tar.xz"
 
