@@ -74,3 +74,4 @@ Se você deseja contribuir para o Furrunix, sinta-se à vontade para abrir issue
 
 
 readme made by chatgpt(openai)
+99.9% of this distro is from https://github.com/modded-ubuntu/modded-ubuntu
