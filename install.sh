@@ -17,7 +17,7 @@ echo "Criando o comando para iniciar o rootfs com proot..."
 
 # Criar um script que inicia o rootfs
 cat > /data/data/com.termux/files/home/start_furrunix.sh <<EOL
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 proot -0 -r ~/furrunix -b /dev -b /proc -b /sys -b /storage -w /home/furrunix /bin/su - furrunix
 EOL
 
