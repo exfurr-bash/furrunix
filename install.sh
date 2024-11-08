@@ -27,3 +27,6 @@ chmod +x /data/data/com.termux/files/home/start_furrunix.sh
 # Passo 4: Finalizando
 echo "Rootfs baixado e descompactado com sucesso!"
 echo "Para iniciar o rootfs, execute o comando: ./start_furrunix.sh"
+
+
+#made woth chat gpt thanks for the help :D
