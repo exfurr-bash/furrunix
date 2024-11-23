@@ -1,4 +1,4 @@
-
+# DESCONTINUADO POR MUITOS BUGS
 # Furrunix
 
 Furrunix é um ambiente Linux baseado em `proot` para o Termux. Este repositório contém o rootfs e um script de instalação para configurar e iniciar o ambiente de maneira fácil no Termux.
